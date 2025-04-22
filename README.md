@@ -15,7 +15,7 @@ cargo run
 
 - [x] Run commands
 - [x] Run commands with args
-- [ ] Create built-ins (cd, pwd, exit, ...)
+- [x] Create built-ins (cd, pwd, exit, ...)
 - [ ] Stylize the shell
 - [ ] Run commands with redirections
 - [ ] Run commands with pipes
